@@ -1,4 +1,4 @@
-# Fraud Protection and Prevention System (FPPS)
+# Fraud Protection and Prevention System (FP² aka FPPS)
 
 ## Architecture
 
@@ -15,4 +15,4 @@
 - Rule base RETE Algorithm
 - NATS
 - RedPanda
-- H20 (optional)
+
